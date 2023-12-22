@@ -1,12 +1,12 @@
 <h1> Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-### I'm Ilyas Yunusov, a Frontend Developer!
+### I'm Ilyas Yunusov, a Frontend Developer
 
 - 🔭 I’m working as a Freelancer 🌟
 - 🌱 I’m currently learning as much as I possibly can..😅
-- 🥅 2022 Goals: Contribute more to Open Source projects 😎
+- 🥅 Goals for future: Contribute more to Open Source projects 😎
 - ⚡ Fun fact: I've gained wide breadth of knowledge just due to curiosity.
-
+- 
 <br />
 
 ### Languages and Technologies
