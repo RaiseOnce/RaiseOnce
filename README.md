@@ -2,10 +2,16 @@
 
 ### I'm Ilyas Yunusov, a Frontend Developer.
 
-- 🔭 I’m working as a Freelancer 🌟
-- 🌱 I’m currently learning as much as I possibly can.. 😅
-- 🥅 Goals for future: Contribute more to Open Source projects 😎
-- ⚡ Fun fact: I've gained wide breadth of knowledge just due to curiosity.
+## Hard skills:
+- React (hooks, router, functional components) + Redux Toolkit;
+- NextJS, TypeScript, SASS (SCSS);
+- HTML5, CSS3 и JavaScript (ES6+);
+- REST API (XHR, fetch, axios);
+- Confident knowledge of Git/Github;
+
+## Soft skills:
+- I will take the time to formulate the questions well, I am not afraid to ask; 
+- I don't presume if I don't understand something, I ask and clarify the situation;
 <br />
 
 ### Languages and Technologies
