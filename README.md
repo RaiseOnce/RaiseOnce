@@ -4,7 +4,7 @@
 <br />
 
 ## Hard skills:
-- React (hooks, router, functional components) + Redux Toolkit;
+- React (hooks, router, functional components) + Redux (Toolkit);
 - NextJS, TypeScript, SASS (SCSS);
 - HTML5, CSS3 и JavaScript (ES6+);
 - REST API (XHR, fetch, axios);
