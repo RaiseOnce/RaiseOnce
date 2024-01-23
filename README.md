@@ -1,6 +1,6 @@
 # Hi there  <img src="https://emojis.slackmojis.com/emojis/images/1660160045/60560/leo-toast.gif?1660160045" width="40"/>
 
-### I'm Ilyas Yunusov, the father of Front-end development.
+### I'm Ilyas Yunusov, front-end developer.
 <br />
 
 ## Hard skills:
