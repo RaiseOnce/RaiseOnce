@@ -13,6 +13,7 @@
 ## Soft skills:
 - I will take the time to formulate the questions well, I am not afraid to ask; 
 - I don't presume if I don't understand something, I ask and clarify the situation;
+- I take personal responsibility for my mistakes, and am open to constructive criticism;
 <br />
 
 ### Languages and Technologies
